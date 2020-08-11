@@ -1,0 +1,4 @@
+COMPONENT=TestCast
+include $(MAKERULES)
+
+
